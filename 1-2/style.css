@@ -1,0 +1,48 @@
+th {
+    border: 3px solid;
+    border-color: #3A3A3B;
+    background-color:#A0C8C9;
+    color: #012626;
+    font-size: 25px;
+}
+
+table {
+    width: 100%;
+}
+
+h1 {
+    color: #3A3A3B;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: #3A3A3B;
+    font-size: 50px;
+}
+
+h4 {
+    color: #3A3A3B;
+    text-align: center;
+    font-size: 25px;
+}
+
+p {
+    color: #3A3A3B;
+    font-size: 25px;
+}
+
+body {
+    background:#D3E9E7;
+}
+
+ul {
+    font-size: 25px;
+    color: #3A3A3B;
+}
+
+img {
+    width: 500px;
+    height: 375px;
+    border-radius: 3px solid;
+}

@@ -1,0 +1,30 @@
+img {
+    height: 550px;
+    width: 400px;
+}
+
+h2 {
+    color: #3A3A3B;
+    font-size: 50px;
+}
+
+th {
+    border: 3px solid;
+    border-color: #3A3A3B;
+    background-color:#A0C8C9;
+    color: #012626;
+    font-size: 25px;
+}
+
+table {
+    width: 100%;
+}
+
+ul {
+    font-size: 25px;
+    color: #3A3A3B;
+}
+
+body {
+    background:#D3E9E7;
+}
