@@ -1,0 +1,113 @@
+.body1 {
+    background-image: url(background1.png);
+}
+
+.body2 {
+    background-image: url(background2.png);
+}
+
+.body3 {
+    background-image: url(background3.png);
+}
+
+h1.page1 {
+    color: white;
+    font-size: 100px;
+    padding-left: 10px;
+    padding-top: 100px;
+    float: left;
+    position: relative;
+    top: 100px;
+    left: 10px;
+    font-family: monospace;
+}
+
+h2.page1 {
+    color: white;
+    font-size: 40px;
+    padding-left: 10px;
+    position: relative;
+    top: 350px;
+    right: 680px;
+    font-family: monospace;
+}
+
+h3.page1 {
+    color: white;
+    text-align: right;
+    padding-right: 50px;
+    font-size: 30px;
+    padding-top: 50px;
+    position: relative;
+    bottom: 100px;
+    font-family: monospace;
+}
+
+p.page1 {
+    color: white;
+    text-align: right;
+    padding-right: 40px;
+    font-size: 30px;
+    position: relative;
+    bottom: 100px;
+    font-family: monospace;
+}
+
+ul.page1 {
+    color: white;
+    text-align: right;
+    padding-right: 50px;
+    font-size: 30px;
+    list-style-position: inside;
+    position: relative;
+    bottom: 100px;
+    font-family: monospace;
+}
+
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+
+th {
+    background-color: white;
+    border-width: 3px;
+    border-color: black;
+    border-style: ridge;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+    font-family: monospace;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+    font-family: monospace;
+}
+
+ul {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    list-style-position: inside;
+    font-family: monospace;
+}
+
+h1 {
+    color: black;
+    font-size: 100px;
+    padding-top: 100px;
+    position: relative;
+    top: 100px;
+    text-align: center;
+    left: 10px;
+    font-family: monospace;
+}
