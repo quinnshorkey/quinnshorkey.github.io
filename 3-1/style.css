@@ -1,0 +1,158 @@
+.GoPlaces {
+    position: relative;
+    width: 95%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 100px;
+    height: 616px;
+  
+}
+
+img.main {
+    width: 100%;
+}
+
+
+
+.t1 {
+    position: absolute;
+    width: 398px;
+    height: 17px;
+    left: 1300px;
+    top: 44px;
+    font-family: roboto, sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    color: #3D3D3D;
+}
+
+.t2 {
+    position: absolute;
+    width: 62.46px;
+    height: 16.96px;
+    left: 1750px;
+    top: 43px;
+    font-family: roboto, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #031CFF;
+    border-radius: 100px;
+}
+
+.text1 {
+    position: absolute;
+    width: 700px;
+    height: 93px;
+    left: 450px;
+    top: 350px;
+    font-family: roboto, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 92px;
+    color: white;
+}
+
+a:link {
+    color:black;
+    text-decoration: none;
+}
+
+h4.h4 {
+    position: absolute;
+    width: 150px;
+    height: 22px;
+    top: 141px;
+    left: 20px;
+    font-family: roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.bluer {
+    position: absolute;
+    width: 550px;
+    height: 900px;
+    left: 1300px;
+    top: 105px;
+    background: #031CFF;
+    mix-blend-mode: multiply;
+}
+
+hr {
+    position: absolute;
+    width: 500px;
+    left: 240px;
+    top: 160px;
+}
+
+.line {
+    position: absolute;
+    width: 100px;
+    height: 4px;
+    left: 1410px;
+    top: 1px;
+    background: #031CFF;
+}
+
+.fig {
+    position: absolute;
+    width: 75px;
+    height: 36px;
+    left: 127px;
+    top: 10px;
+    font-family: roboto, sans-serif;
+    font-size: 25.886px;
+    line-height: 30px;
+    color: #3D3D3D;
+}
+
+.red {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 79px;
+    top: 49.8px;
+    background: #F24F2B;
+    mix-blend-mode: multiply;
+    transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0);
+}
+
+.blue {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 110px;
+    top: 49.8px;
+    background: #1FBCFA;
+    mix-blend-mode: multiply;
+    transform: matrix(-0.71, -0.71, -0.71, 0.71, 0, 0);
+}
+
+.green {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 98.8px;
+    top: 30px;
+    background: #19CF87;
+    mix-blend-mode: multiply;
+    transform: rotate(45deg);
+}
+
+.purple {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 98.8px;
+    top: 69.6px;
+    background: #A159F9;
+    mix-blend-mode: multiply;
+    transform: rotate(-135deg)
+}
